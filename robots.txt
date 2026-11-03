@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bet-on-game-bd.com/sitemap.xml
